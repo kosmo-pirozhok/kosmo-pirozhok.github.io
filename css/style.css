@@ -44,7 +44,7 @@ a:hover {
 .about {
 	position: relative;
 	height: 640px;
-	background: url(../img/01-cover.jpg) center/cover no-repeat; /*в любом порядке*/
+	background: url(./img/01-cover.jpg) center/cover no-repeat; /*в любом порядке*/
 	margin-bottom: 20px;
 }
 
