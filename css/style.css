@@ -153,6 +153,44 @@ iframe {
 	margin-bottom: 20px;
 }
 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+.list6b {
+    padding:0;
+    list-style: none;
+}
+.list6b li{
+    padding:6px;
+}
+.list6b li:before {
+    padding-right:10px;
+    font-weight: bold;
+    color: #C0C0C0;
+    content: "\2714";
+    transition-duration: 0.5s;
+}
+.list6b li:hover:before {
+    color: #337AB7;
+    content: "\2714";
+} 
+
 footer {
 	font-family: 'Roboto', sans-serif;
 	font-weight: 700;
